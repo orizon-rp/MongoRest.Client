@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\mongo_rest.editor.xml
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\mongo_rest.editor.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\mongo_rest.editor.dll
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\mongo_rest.editor.pdb
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\mongo_rest.editor.csproj.AssemblyReference.cache
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\mongo_rest.editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\mongo_rest.editor.AssemblyInfoInputs.cache
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\mongo_rest.editor.AssemblyInfo.cs
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\mongo_rest.editor.csproj.CoreCompileInputs.cache
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\mongo_rest.editor.sourcelink.json
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\mongo_re.D27D7352.Up2Date
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\mongo_rest.editor.dll
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\refint\mongo_rest.editor.dll
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\mongo_rest.editor.pdb
+C:\Users\bubbl\Documents\S&box Projects\rp\Libraries\Mongo\Editor\obj\Debug\ref\mongo_rest.editor.dll
